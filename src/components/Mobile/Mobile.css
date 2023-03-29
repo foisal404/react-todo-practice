@@ -1,0 +1,16 @@
+.battery{
+    background-color: cadetblue;
+    color: #023047;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.battery button{
+    border: 0px solid white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.battery button:hover{
+    background-color: #e5e5e5;
+}
+    
